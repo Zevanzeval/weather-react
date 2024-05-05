@@ -10,6 +10,10 @@ root.render(
     <div className="App">
       <Weather />
     </div>
+    <p>
+      Coded by Oleksandra Holovei and hosted on{" "}
+      <a href="https://github.com/Zevanzeval/weather-react">GitHub</a>
+    </p>
   </React.StrictMode>
 );
 
